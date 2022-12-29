@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+#header_div{
+    background-color: aqua;
+    color: black;
+}
+p{
+    font-size: 28px;
+    font-weight: bolder;
+    letter-spacing: 0.4px;
+}
+#button_audio{
+    margin-top: 8px;
+    width: 3.4px;
+    font-weight: bolder;
+    letter-spacing: 0.7;
+}
+#easy_right{
+    background-color: blueviolet;
+    color:antiquewhite;
+    width: max-content;
+    line-height: 3px;
+    box-shadow: 3px,white;
+}
